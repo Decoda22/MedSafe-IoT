@@ -1,0 +1,29 @@
+Cronograma de Desenvolvimento: MedSafe Open Source (12 Meses)
+Fase 1: Fundação e Governança (Meses 1-2)
+Objetivo: Estabelecer as regras do jogo e a infraestrutura de colaboração.
+• Mês 1: Criação do repositório (GitHub/GitLab), escolha da licença (ex: MIT ou Apache 2.0) e redação do Manifesto do Projeto.
+• Mês 2: Divisão em Squads Internacionais/Locais:
+• Squad Hardware: Desenvolvedores de PCB e Modelagem 3D.
+• Squad Software: Desenvolvedores Backend (Integração Gov.br) e Mobile.
+• Squad IA/Dados: Cientistas de dados para modelos de interação medicamentosa.
+• Marco: Documentação "ReadMe" completa e primeiras diretrizes de contribuição publicadas.
+Fase 2: MVP 1.0 - O Protótipo Funcional (Meses 3-6)
+Objetivo: Criar um dispositivo que dispense o medicamento com segurança.
+• Mês 3: Design dos primeiros arquivos STL (impressão 3D) para o refil padrão e o corpo do dispositivo.
+• Mês 4: Desenvolvimento do firmware básico (ESP32) para controle dos motores e leitura de RFID.
+• Mês 5: Integração com o App (Beta): Autenticação simulada via Gov.br e comandos via Bluetooth.
+• Mês 6: Hardware Freeze 1.0: Primeira unidade montada e funcional para testes de bancada.
+• Marco: Primeiro vídeo do "Hello World" (dispensação bem-sucedida) para atrair mais devs.
+Fase 3: Inteligência e Conectividade (Meses 7-9)
+Objetivo: Tornar o sistema "Smart" e resiliente.
+• Mês 7: Implementação da IA de barreira: Integração com bancos de dados abertos de interações medicamentosas.
+• Mês 8: Desenvolvimento do sistema de reconhecimento facial simplificado (Edge AI) no dispositivo/app.
+• Mês 9: Testes de segurança cibernética: Criptografia de ponta a ponta e testes de "Stress" no modo offline.
+• Marco: Lançamento da documentação técnica para parceiros governamentais (White Paper).
+Fase 4: Piloto e Homologação (Meses 10-12)
+Objetivo: Validar o projeto em ambiente controlado e preparar para escala.
+• Mês 10: Fabricação de 10 a 20 unidades protótipo para um "Piloto Comunitário" ou Acadêmico.
+• Mês 11: Coleta de dados de UX (Experiência do Usuário) com idosos e agentes de saúde.
+• Mês 12: Ajustes finais no hardware (v2.0) baseados no feedback do piloto e auditoria do código-fonte.
+• Marco: Evento de Lançamento Open Source v1.0 (Hardware e Software liberados para a comunidade global).
+Estrutura de Colaboração (Open Source)
