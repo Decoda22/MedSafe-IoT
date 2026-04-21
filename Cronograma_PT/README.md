@@ -1,0 +1,34 @@
+# MedSafe Open Source
+
+## Cronograma de Desenvolvimento (12 Meses)
+
+### Fase 1: Fundação e Governança (Meses 1-2)
+- Criação do repositório (GitHub/GitLab), escolha da licença (MIT/Apache 2.0) e Manifesto do Projeto.
+- Formação de Squads:
+  - Hardware: PCB e Modelagem 3D
+  - Software: Backend (Gov.br) e Mobile
+  - IA/Dados: Modelos de interação medicamentosa
+- Marco: Documentação ReadMe e diretrizes de contribuição.
+
+### Fase 2: MVP 1.0 (Meses 3-6)
+- STL 3D, firmware ESP32, integração App Beta.
+- Hardware Freeze 1.0.
+- Marco: Vídeo "Hello World".
+
+### Fase 3: Inteligência e Conectividade (Meses 7-9)
+- IA de barreira, reconhecimento facial, testes de segurança.
+- Marco: White Paper técnico.
+
+### Fase 4: Piloto e Homologação (Meses 10-12)
+- Protótipos, coleta UX, ajustes finais.
+- Marco: Evento Open Source v1.0.
+
+---
+
+## Estrutura de Colaboração
+
+- **Governança:** Comitê internacional + squads locais.  
+- **Squads:** Hardware, Software, IA/Dados.  
+- **Ferramentas:** GitHub/GitLab, licença aberta, documentação.  
+- **Comunidade:** Pull Requests, revisão por pares, fóruns.  
+- **Marcos:** Manifesto, White Paper, Evento v1.0.
